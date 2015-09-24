@@ -6,3 +6,4 @@ test github 2
 test branch merger
 test branch dev1 meger
 gaoqi
+master-input-1
